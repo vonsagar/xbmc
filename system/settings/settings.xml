@@ -720,6 +720,14 @@
           <default>false</default>
           <control type="toggle" />
         </setting>
+		<setting id="subtitles.downloadfirstforced" parent="subtitles.downloadfirst" type="boolean" label="90000" help="90001">
+			<level>2</level>
+			<default>false</default>
+			<dependencies>
+				<dependency type="enable" setting="subtitles.downloadfirst" operator="is">true</dependency>
+			</dependencies>
+			<control type="toggle" />
+		</setting>
         <setting id="subtitles.tv" type="addon" label="24116" help="24117">
           <level>1</level>
           <default></default>

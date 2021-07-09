@@ -21709,3 +21709,14 @@ msgstr ""
 msgctxt "#39117"
 msgid "Verbose logging for the [B]Announcer[/B] component"
 msgstr ""
+
+#: system/settings/settings.xml
+msgctxt "#90000"
+msgid "Auto download first subtitle (forced)"
+msgstr ""
+
+#. Description of setting with label #90000 "Auto download first subtitle (forced)"
+#: system/settings/settings.xml
+msgctxt "#90001"
+msgid "Automatically download first subtitle from the search result list (no matter if currently available)"
+msgstr ""

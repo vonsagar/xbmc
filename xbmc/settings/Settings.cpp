@@ -178,6 +178,7 @@ const std::string CSettings::SETTING_SUBTITLES_STORAGEMODE = "subtitles.storagem
 const std::string CSettings::SETTING_SUBTITLES_CUSTOMPATH = "subtitles.custompath";
 const std::string CSettings::SETTING_SUBTITLES_PAUSEONSEARCH = "subtitles.pauseonsearch";
 const std::string CSettings::SETTING_SUBTITLES_DOWNLOADFIRST = "subtitles.downloadfirst";
+const std::string CSettings::SETTING_SUBTITLES_DOWNLOADFIRSTFORCED = "subtitles.downloadfirstforced";
 const std::string CSettings::SETTING_SUBTITLES_TV = "subtitles.tv";
 const std::string CSettings::SETTING_SUBTITLES_MOVIE = "subtitles.movie";
 const std::string CSettings::SETTING_DVDS_AUTORUN = "dvds.autorun";

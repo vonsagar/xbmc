@@ -138,6 +138,7 @@ public:
   static const std::string SETTING_SUBTITLES_CUSTOMPATH;
   static const std::string SETTING_SUBTITLES_PAUSEONSEARCH;
   static const std::string SETTING_SUBTITLES_DOWNLOADFIRST;
+  static const std::string SETTING_SUBTITLES_DOWNLOADFIRSTFORCED;
   static const std::string SETTING_SUBTITLES_TV;
   static const std::string SETTING_SUBTITLES_MOVIE;
   static const std::string SETTING_DVDS_AUTORUN;
